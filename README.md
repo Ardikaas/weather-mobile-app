@@ -1,4 +1,4 @@
-# e_weatherapp
+# weatherapp
 
 A new Flutter project.
 
